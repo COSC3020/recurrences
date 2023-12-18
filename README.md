@@ -10,7 +10,7 @@ $$ T(n) =
     \end{cases}
 $$
 
-1.
+2.
 $$ T(n) =
     \begin{cases}
         1 & n \leq 1\\
@@ -18,7 +18,7 @@ $$ T(n) =
     \end{cases}
 $$
 
-1.
+3.
 $$ T(n) =
     \begin{cases}
         1 & n \leq 1\\
